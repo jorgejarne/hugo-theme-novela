@@ -1,4 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://blacklife.site"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Black life"
 pygmentsstyle: 'monokai'
+taxonomies:
+  author: authors
