@@ -1,16 +1,11 @@
-+++
-featured = true
-
-+++
-title: Black life
-
-bio: "Written by You. This is where your author bio lives. Share your work, your joys and of course, your Twitter handle"
-
+---
+title: Hugo Authors
+bio: |
+  Written by You. This is where your author bio lives. Share your work, your
+  joys and of course, your Twitter handle.
+avatar: /images/profile-01.jpeg
 featured: true
-
 social:
-  - title: unsplash
-    url: https://unsplash.com
   - title: github
     url: https://github.com
   - title: github
@@ -19,3 +14,6 @@ social:
     url: https://github.com
   - title: github
     url: https://github.com
+  - title: github
+    url: https://github.com
+---
