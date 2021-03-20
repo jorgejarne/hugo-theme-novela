@@ -8,6 +8,7 @@ fields:
     required: false
   label: Heading
   description: The text displayed in the hero
+  hidden: false
 - name: maxWidthPX
   type: number
   label: Max Width
