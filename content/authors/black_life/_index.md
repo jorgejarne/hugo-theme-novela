@@ -1,4 +1,9 @@
++++
+bio = "fefef"
+featured = true
+title = "fefe"
 
++++
 title: Black life
 bio: |
   Written by You. This is where your author bio lives. Share your work, your
