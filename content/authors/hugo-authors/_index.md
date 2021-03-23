@@ -12,11 +12,5 @@ social:
   url: https://instagram.com/historiasdlkronen
 - title: rarible
   url: https://rarible.com/blacklife
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
 
 ---
