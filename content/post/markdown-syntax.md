@@ -1,8 +1,8 @@
 ---
-title: Markdown Syntax Guide
+title: La ignorancia del rico
 date: 2019-03-11
 hero: "/images/polish_20200806_221131558.jpg"
-excerpt: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+excerpt: una casa abandonada en pleno pirineo
 authors:
 - Hugo Authors
 
