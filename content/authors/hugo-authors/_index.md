@@ -8,8 +8,8 @@ bio: 'Fotógrafo centrado en el arte minimalista combinado con el medio rural y 
 avatar: "/images/american-psycho-header.jpg"
 featured: true
 social:
-- title: github
-  url: https://github.com
+- title: Instagram
+  url: https://instagram.com/historiasdlkronen
 - title: github
   url: https://github.com
 - title: github
