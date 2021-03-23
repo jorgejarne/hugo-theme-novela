@@ -10,8 +10,8 @@ featured: true
 social:
 - title: Instagram
   url: https://instagram.com/historiasdlkronen
-- title: github
-  url: https://github.com
+- title: rarible
+  url: https://rarible.com/blacklife
 - title: github
   url: https://github.com
 - title: github
