@@ -7,3 +7,10 @@ hero = "/images/polish_20200614_233006735.jpg"
 title = "Tardada de futbol"
 
 +++
+<br />
+
+<br />
+
+<br />
+
+<br />
