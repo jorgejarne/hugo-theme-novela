@@ -28,165 +28,6 @@ title = "Mañana de verano Napolitana"
 
 <br />
 
-<br>
-
-<br><br>
-
-<br><p> </p>
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br /><br /><br /><br /><br /><br /><br />
-
-***
-
-<br />
-
-***
-
-<br />
-
-***
-
-<br />  
-<p> </p>
-
-<p> </p>
-
-<br />
-
-<br /><br /><br /><br /><br /><br /><br />
-
-***
-
-<br />
-
-***
-
-<br />
-
-***
-
-<br />  
-<p> </p>
-
-<p> </p>
-
-<br><br>
-
-<br>
-
-<br><br>
-
-<br><p> </p>
-
-<br />
-
-<br />
-
-<br />
-
-<br>
-
-<br><br>
-
-<br><p> </p>
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br /><br /><br /><br /><br /><br /><br />
-
-***
-
-<br />
-
-***
-
-<br />
-
-***
-
-<br />  
-<p> </p>
-
-<p> </p>
-
-<br />
-
-<br /><br /><br /><br /><br /><br /><br />
-
-***
-
-<br />
-
-***
-
-<br />
-
-***
-
-<br />  
-<p> </p>
-
-<p> </p>
-
-<br><br>
-
-<br>
-
-<br><br>
-
-<br><p> </p>
-
-<br />
-
-<br />
-
-<br />
-
-<br>
-
-<br><br>
-
-<br><p> </p>
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br /><br /><br /><br /><br /><br /><br />
-
-***
-
-<br />
-
-***
-
-<br />
-
-***
-
-<br />  
-<p> </p>
-
-<p> </p>
-
 <br />
 
 <br /><br /><br /><br /><br /><br /><br />
@@ -230,8 +71,128 @@ title = "Mañana de verano Napolitana"
 
 <p> </p>
 
-</html>
+<p> </p>
 
-Creo que hay fotografías que huelen por ellas mismas, he aquí un ejemplo, primera hora de una mañana en julio recién levantado en un airbnb en un barrio cualquiera de napoles. Ese cielo azul os aseguro que olía a mar
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
 
 {{< css.inline >}} <style> .canon { background: white; width: 100%; height: auto;} </style> {{< /css.inline >}}
