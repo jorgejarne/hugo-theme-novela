@@ -31,6 +31,7 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/anonymous.md
 - content/post/dsd.md
 - content/post/el-sarrio-diagonal.md
 - content/post/geometria-y-angustia.md
