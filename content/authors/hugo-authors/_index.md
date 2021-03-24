@@ -5,7 +5,7 @@ bio: "Fotógrafo centrado en el arte minimalista combinado con el medio rural y 
 avatar: "/images/perfil2.png"
 featured: true
 social:
-- title: Instagram
+- title: instagram
   url: https://instagram.com/historiasdlkronen
 - title: rarible
   url: https://rarible.com/blacklife
