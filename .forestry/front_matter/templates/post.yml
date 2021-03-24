@@ -32,6 +32,7 @@ fields:
   label: Authors
 pages:
 - content/post/dsd.md
+- content/post/el-sarrio-diagonal.md
 - content/post/geometria-y-angustia.md
 - content/post/la-bombilla-del-bosque.md
 - content/post/la-ultima-sombra.md
