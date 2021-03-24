@@ -7,11 +7,27 @@ authors:
 - Hugo Authors
 
 ---
+<br><br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
 El pirineo Aragonés esta lleno de rincones desconocidos pero algunos hacen demasiado esfuerzo en intentar explotarlos.
 
 <br>
 
-El choque del bosque con el hormigón a mi parecer es brutal 
+El choque del bosque con el hormigón a mi parecer es brutal
 
 <br>
 
