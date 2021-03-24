@@ -6,6 +6,232 @@ hero = "/images/polish_20200615_000941877.jpg"
 title = "Mañana de verano Napolitana"
 
 +++
+<html>
+
+<br>
+
+<br>
+
+<br>
+
+<br><br>
+
+<br>
+
+<br><br>
+
+<br><p> </p>
+
+<br />
+
+<br />
+
+<br />
+
+<br>
+
+<br><br>
+
+<br><p> </p>
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br /><br /><br /><br /><br /><br /><br />
+
+***
+
+<br />
+
+***
+
+<br />
+
+***
+
+<br />  
+<p> </p>
+
+<p> </p>
+
+<br />
+
+<br /><br /><br /><br /><br /><br /><br />
+
+***
+
+<br />
+
+***
+
+<br />
+
+***
+
+<br />  
+<p> </p>
+
+<p> </p>
+
+<br><br>
+
+<br>
+
+<br><br>
+
+<br><p> </p>
+
+<br />
+
+<br />
+
+<br />
+
+<br>
+
+<br><br>
+
+<br><p> </p>
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br /><br /><br /><br /><br /><br /><br />
+
+***
+
+<br />
+
+***
+
+<br />
+
+***
+
+<br />  
+<p> </p>
+
+<p> </p>
+
+<br />
+
+<br /><br /><br /><br /><br /><br /><br />
+
+***
+
+<br />
+
+***
+
+<br />
+
+***
+
+<br />  
+<p> </p>
+
+<p> </p>
+
+<br><br>
+
+<br>
+
+<br><br>
+
+<br><p> </p>
+
+<br />
+
+<br />
+
+<br />
+
+<br>
+
+<br><br>
+
+<br><p> </p>
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br /><br /><br /><br /><br /><br /><br />
+
+***
+
+<br />
+
+***
+
+<br />
+
+***
+
+<br />  
+<p> </p>
+
+<p> </p>
+
+<br />
+
+<br /><br /><br /><br /><br /><br /><br />
+
+***
+
+<br />
+
+***
+
+<br />
+
+***
+
+<br />  
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p><p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+</html>
+
 Creo que hay fotografías que huelen por ellas mismas, he aquí un ejemplo, primera hora de una mañana en julio recién levantado en un airbnb en un barrio cualquiera de napoles. Ese cielo azul os aseguro que olía a mar
 
 {{< css.inline >}} <style> .canon { background: white; width: 100%; height: auto;} </style> {{< /css.inline >}}
