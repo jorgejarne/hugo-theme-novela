@@ -67,8 +67,6 @@ title = "Matadero primaveral"
 
 <p> </p>
 
-<br />
-
 <br /><br /><br /><br /><br /><br /><br />
 
 ***
