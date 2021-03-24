@@ -2,14 +2,26 @@
 title: La casa caida
 date: 2019-03-09
 hero: "/images/polish_20200615_005603521.jpg"
-excerpt: Lorem Ipsum Dolor Si Amet
+excerpt: La ventana sin cerrar
 authors:
 - Hugo Authors
 
 ---
 <html>
 
-<br><br><br><br><br><br><br><br><br>
+<br>
+
+<br>
+
+<br>
+
+<br><br>
+
+<br>
+
+<br><br>
+
+<br>
 
 </html>
 
